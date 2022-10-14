@@ -1,4 +1,4 @@
-//visit the other github branch for updated code, here the problem is that the refer code will remain same after refer, this code is works as a chain refer, means every one will get 100 diamond
+//visit the other github branch i.e referAndEarnDiamonds for updated code, here the problem is that the refer code will remain same after refer, this code is works as a chain refer, means every one will get 100 diamond
 const userModel=require("../models/userModel")
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
